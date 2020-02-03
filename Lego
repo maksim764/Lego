@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Новинки</title>
+	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	 <style type="text/css">
+	 		   	.e{
+	   		width: 50px;
+	   		height: 50px;
+	   	}
+	   		   	body{
+	   		
+	   		font-family: cursive;
+	   	}
+	 </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Об авторе</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Обзоры <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Lego</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link link" href="#" tabindex="-1" aria-disabled="true">Мой город LEGO</a>
+      </li>
+    </ul>
+  </div>
+  <img class="e" style="-webkit-user-select: none;margin: auto;" src="https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/11/12/280072136/280072136_184ef77d-7d39-49d0-a3a6-2f1540a5fbb2_336_336.jpg">
+</nav>
+	<button type="button" class="btn btn-primary">
+<a href="">Читайте на ссылке мой город LEGO</a>
+</button>
+</body>
+</html>
